@@ -1,5 +1,5 @@
 --- 
-title: "麻麻说我们可以用 R Markdown 写书了"
+title: "麻麻说我们可以用 R Markdown 写书了666"
 author: "张三"
 date: "`r Sys.Date()`"
 documentclass: ctexbook
